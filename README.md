@@ -30,7 +30,7 @@
 
 ## 🌐Socials
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@joshuaajagbe96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/annabel-nnawuihe) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Annabel_adaeze)
+[![Hashnode](https://img.shields.io/badge/Hasnode-12100E?logo=hasnode&logoColor=white)](https://hashnode.com/@Annabel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/annabel-nnawuihe) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Annabel_adaeze)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -48,6 +48,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+![](https://peachydev.hashnode.dev/error-handling-in-nodejs-with-express)
+![](https://peachydev.hashnode.dev/an-introduction-to-http-methods-simplifying-web-communication)
 
 <!-- [CHOOSING BETWEEN EMBEDDED DOCUMENTS AND REFERENCED DOCUMENTS IN MONGODB](https://medium.com/@joshuaajagbe96/choosing-between-embedded-documents-and-referenced-documents-in-mongodb-99bedfcdc76d) */
 
