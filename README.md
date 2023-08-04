@@ -47,15 +47,10 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+
 ![](https://peachydev.hashnode.dev/error-handling-in-nodejs-with-express)
 ![](https://peachydev.hashnode.dev/an-introduction-to-http-methods-simplifying-web-communication)
 
-<!-- [CHOOSING BETWEEN EMBEDDED DOCUMENTS AND REFERENCED DOCUMENTS IN MONGODB](https://medium.com/@joshuaajagbe96/choosing-between-embedded-documents-and-referenced-documents-in-mongodb-99bedfcdc76d) */
-
-<!-- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k) -->
-
-<!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://dev.to/codewhiteweb) -->
 
