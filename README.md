@@ -46,13 +46,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Annie-dev01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📕 Latest Blog Posts
-
-
 ![](https://peachydev.hashnode.dev/error-handling-in-nodejs-with-express)
 ![](https://peachydev.hashnode.dev/an-introduction-to-http-methods-simplifying-web-communication)
 
 
-<!-- ➡️ [more blog posts...](https://dev.to/codewhiteweb) -->
 
 ### ✍️Random Dev Quote
 
