@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning : NodeJS.
 
-👯 I actively write JavaScript, Python and NodeJS(Express).
+👯 I actively write JavaScript, TypeScript, Python and NodeJS(Express).
 
 🛠️ Javascript tooling.
 
