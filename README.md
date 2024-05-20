@@ -13,8 +13,6 @@
 # 💫About Me :
 🔭 I’m a Software Developer.
 
-🌱 I’m currently learning : NodeJS.
-
 👯 I actively write JavaScript, TypeScript, Python and NodeJS(Express).
 
 🛠️ Javascript tooling.
